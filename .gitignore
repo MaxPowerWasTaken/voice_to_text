@@ -1,0 +1,5 @@
+vendor/DeepSpeech/models-0.5.1/
+lit_review/
+notes.txt
+vendor/DeepSpeech/data/lm/lm.binary
+vendor/DeepSpeech/data/lm/trie
